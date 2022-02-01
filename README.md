@@ -1,2 +1,2 @@
 # Analyzing-Credit-Card-Default
-nalyze a dataset containing the defaults of credit card clients in Taiwan from the UCI Machine Learning Repository. 
+Analyze a dataset containing the defaults of credit card clients in Taiwan from the UCI Machine Learning Repository.Our goal is to create various machine learning models that can predict whether a given individual will default on their next credit card payment using Python. We plan to create models using the following algorithms: KNN, Logistic Regression, Naïve Bayes, Decision Trees, SVM, and Random Forest. 
